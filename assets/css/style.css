@@ -544,8 +544,8 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  color: #cdc8be;
-  background-color: #272727;
+  color: #272727;
+  background-color: #cdc8be;
   padding: 80px 0;
 }
 
@@ -980,6 +980,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
+  background-color: whitesmoke;
   padding-top: 40px;
 }
 
