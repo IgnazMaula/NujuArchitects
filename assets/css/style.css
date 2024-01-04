@@ -3,8 +3,8 @@
 --------------------------------------------------------------*/
 body {
   font-family: "IBM Plex Sans", sans-serif;
-  color: #262626;
-  background-color: #cdc8be;
+  color: #cdc8be;
+  background-color: #262626;
 }
 
 a {
@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: #445228;
+  color: #CDC8BE;
   text-decoration: none;
 }
 
@@ -537,15 +537,15 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "IBM Plex Sans", sans-serif;
-  color: #151515;
+  /* color: #151515; */
 }
 
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
 .about {
-  color: #272727;
-  background-color: #cdc8be;
+  color: #cdc8be;
+  background-color: #262626;
   padding: 80px 0;
 }
 
@@ -875,7 +875,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #262626;
+  color: #CDC8BE;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   border-radius: 3px;
@@ -883,8 +883,8 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #CDC8BE;
-  background: #272727;
+  color: #272727;
+  background: #CDC8BE;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1067,7 +1067,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #272727;
+  /* color: #272727; */
   float: left;
 }
 
@@ -1076,13 +1076,13 @@ section {
   line-height: 30px;
   display: block;
   font-weight: 700;
-  color: #151515;
+  /* color: #151515; */
   margin-left: 50px;
 }
 
-.counts .content .count-box span:hover {
+/* .counts .content .count-box span:hover {
   color: #272727;
-}
+} */
 
 .counts .content .count-box p {
   padding: 15px 0 0 0;
@@ -1522,7 +1522,7 @@ section {
 }
 
 #footer .footer-top {
-  background-color: #272727;
+  background-color: #CDC8BE;
   border-bottom: 1px solid #222222;
   padding: 60px 0 30px 0;
 }
@@ -1541,7 +1541,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 span {
-  color: #CDC8BE;
+  color: #272727;
 }
 
 #footer .footer-top .footer-info p {
@@ -1549,14 +1549,14 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #cdc8be;
+  color: #272727;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #CDC8BE;
-  color: #272727;
+  background: #272727;
+  color: #CDC8BE;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
