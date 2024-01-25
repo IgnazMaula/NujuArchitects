@@ -1575,7 +1575,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: 600;
-  color: #202020;
+  color: #cdc8be;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1592,7 +1592,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #202020;
+  color: #CDC8BE;
   font-size: 18px;
   line-height: 1;
 }
@@ -1608,19 +1608,19 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #202020;
+  color: #cdc8be;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #202020;
+  color: #CDC8BE;
 }
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #202020;
+  background: #cdc8be;
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
